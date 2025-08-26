@@ -1,21 +1,17 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "my-site"
+  title: "Pratyusha Sarkar"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - research.qmd
+      - publications.qmd
+      - teaching.qmd
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
     toc: true
-
-
-

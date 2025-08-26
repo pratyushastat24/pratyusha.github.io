@@ -5,13 +5,10 @@ project:
 website:
   title: "Pratyusha Sarkar"
   navbar:
-    left:
-      - href: index.qmd
+   - href: index.qmd
         text: Home
       - href: about.qmd
-      - href: research.qmd
-      - href: publications.qmd
-      - href: teaching.qmd
-format:
-  html:
-    toc: true
+        text: About
+      - href: cv.qmd
+        text: CV
+

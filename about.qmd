@@ -1,5 +1,15 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+# About Me
+
+Hello! I’m **Pratyusha Sarkar**, a PhD in Statistics.  
+My research interests include **Bayesian methods, Causal Inference, and Machine Learning**.
+
+I enjoy working on:
+- Probabilistic modeling
+- Statistical computing
+- Applications in data science
+
+Outside research, I enjoy teaching, mentoring students, and collaborating on interdisciplinary projects.

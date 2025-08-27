@@ -1,0 +1,31 @@
+---
+title: "Curriculum Vitae"
+---
+
+# Curriculum Vitae
+
+You can download my latest CV here:
+
+👉 [Download CV (PDF)](/files/cv.pdf)
+
+------------------------------------------------------------------------
+
+## Education
+
+-   **Ph.D. in Statistics**, \[Your University\], Year–Year\
+-   **M.Sc. in Statistics**, \[Your University\], Year–Year\
+-   **B.Sc. in Mathematics**, \[Your University\], Year–Year
+
+## Publications
+
+-   Sarkar, P. (2025). *Title of Paper*. Journal of Statistical Methods.\
+-   Sarkar, P. (2024). *Another Paper*. arXiv:XXXX.XXXXX
+
+## Teaching
+
+-   Instructor, STAT 101 – Introduction to Statistics\
+-   TA, STAT 201 – Regression Analysis
+
+------------------------------------------------------------------------
+
+## 

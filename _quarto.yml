@@ -1,14 +1,13 @@
 project:
   type: website
-  output-dir: _site
 
 website:
   title: "Pratyusha Sarkar"
   navbar:
-   - href: index.qmd
+    left:
+      - href: index.qmd
         text: Home
       - href: about.qmd
         text: About
       - href: cv.qmd
         text: CV
-

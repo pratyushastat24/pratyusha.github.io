@@ -1,7 +1,8 @@
 ---
-title: "my-site"
+title: "Home"
 ---
 
-This is a Quarto website.
+# Pratyusha Sarkar
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Welcome to my academic homepage!  
+I’m a PhD in Statistics, with research interests in **Bayesian methods, Causal Inference, and Machine Learning**.
